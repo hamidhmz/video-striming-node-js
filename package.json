@@ -1,0 +1,23 @@
+{
+  "name": "video-striming-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node --trace_gc index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/video-striming-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/video-striming-node-js/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/video-striming-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
